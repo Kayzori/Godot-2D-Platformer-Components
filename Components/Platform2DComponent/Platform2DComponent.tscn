@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://codfvm6y8o8ao"]
+
+[ext_resource type="Script" uid="uid://cjshgmut7yt40" path="res://Addons/Components/Platform2DComponent/Platform2DComponent.gd" id="1_qbk2s"]
+
+[node name="Platform2DComponent" type="Node"]
+script = ExtResource("1_qbk2s")

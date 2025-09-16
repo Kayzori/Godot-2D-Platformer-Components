@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://b530n2s8iybes"]
+
+[ext_resource type="Script" uid="uid://c3m2q2vd3sh1g" path="res://Addons/Components/DynamicAnimationPlayerComponent/DynamicAnimationPlayerComponent.gd" id="1_jejtw"]
+
+[node name="DynamicAnimationPlayerComponent" type="Node"]
+script = ExtResource("1_jejtw")
+metadata/_custom_type_script = "uid://c3m2q2vd3sh1g"

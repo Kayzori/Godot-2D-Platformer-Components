@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://ceig8lm4wk7jk"]
+
+[node name="Character2DPushingComponent" type="Node"]

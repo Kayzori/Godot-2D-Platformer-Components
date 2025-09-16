@@ -1,4 +1,4 @@
-# Godot-2D-Platformer-Components
+# Godot-2D-Platformer-Components-Pack
 Some Useful Components Systems On Godot Game Engine 4.x
 
 ## About ##

@@ -2,13 +2,13 @@
 Some Useful Components Systems On Godot Game Engine 4.x
 
 ## About ##
-The Folder Contains 9 Components:
+The pack contains 9 components:
 - Camera2DShakeComponent
 - Camera2DSwayComponent
-- Character2DPushingComponent (To Push Rigid Bodies)
-- Character2DUnstickComponent (To Unstick The Character Once Stuck Between Collisions Or Bodies)
-- DynamicAnimationPlayerComponent (System Component To Animate Dynamicaly)
+- Character2DPushingComponent (to push rigid bodies)
+- Character2DUnstickComponent (to unstick the character once stuck between collisions or bodies)
+- DynamicAnimationPlayerComponent (system component to animate dynamicaly)
 - FiniteStateMachine
-- InteractionComponent (System Component To Interact Between Any Types Of Node)
-- Platform2DComponent (This Component Make Any Body Be A Platform)
-- Platform2DStandingComponent (This Component Make Any Body Stand On A Body That Has Platform2DComponent)
+- InteractionComponent (system component to interact between any types of node)
+- Platform2DComponent (this component make any body be a platform)
+- Platform2DStandingComponent (this component make any body stand on a body that has Platform2DComponent)
